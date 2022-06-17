@@ -1,0 +1,10 @@
+[
+  {
+    "package": "infix",
+    "oncran": true
+  },
+  {
+    "package": "telegram.bot",
+    "oncran": true
+  }
+]
