@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "infix"]
 	path = infix
 	url = https://github.com/ebeneditos/infix
-	shallow = true
-	registered = true
 [submodule "telegram.bot"]
 	path = telegram.bot
 	url = https://github.com/ebeneditos/telegram.bot
-	shallow = true
-	registered = true
